@@ -1,17 +1,15 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="1404.47">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 16.9px; font: 13.0px Menlo; color: #242729; -webkit-text-stroke: #242729; background-color: #eff0f1}
-    span.s1 {font-kerning: none}
-  </style>
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Litify: Coming in 2016</title>
 </head>
-<body>
-<p class="p1"><span class="s1">&lt;?php include_once(“index.html"); ?&gt;</span></p>
+<body style="margin:0px 0px 0px 0px; padding:0px 0px 0px 0px;">
+
+<a href="mailto:info@litify.com">
+<img src="litify_comingsoon_@2x.jpg" style="width: 100%; margin:0px 0px 0px 0px; padding:0px 0px 0px 0px;"></img>
+</a>
+
 </body>
 </html>
